@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0886d590-99b8-4d04-a1cc-83827879a97f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aparelhos/AparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aparelhos/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aparelhos/ReprodutorMusical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uml/diagrama.drawio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0886d590-99b8-4d04-a1cc-83827879a97f" name="Changes" comment="Projeto Finalizado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +116,18 @@
       <option name="presentableId" value="Default" />
       <updated>1695813206814</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto Finalizado">
+      <created>1695929821440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695929821440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto Finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto Finalizado" />
   </component>
 </project>
